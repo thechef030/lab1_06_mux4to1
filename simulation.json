@@ -1,5 +1,5 @@
 {
-  "sources": ["src/design.v"],
-  "testbench": "sim/tb_design.v",
-  "simulation_top": "tb_design"
+  "sources": ["src/mux_4x1.v"],
+  "testbench": "sim/tb_mux_4x1.sv",
+  "simulation_top": "tb_mux_4x1"
 }
